@@ -1,0 +1,9 @@
+amount:10000
+amount:60000
+
+openfault:fault16/fault0.txt
+0.9701 0.1122 0.2785 
+start retraining layer 1:
+
+iter0 0.6883
+iter5 0.7546

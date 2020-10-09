@@ -1,0 +1,69 @@
+amount:10000
+amount:60000
+
+openfault:fault12/fault0.txt
+0.9701 0.1428 0.3541 
+start retraining layer 1:
+
+iter0 0.6987
+iter5 0.7241
+iter10 0.7293
+iter15 0.7268
+iter20 0.7291
+iter25 0.73
+layer 1 end at iter 25  test rate :0.73
+
+start retraining layer 2:
+
+iter0 0.7338
+iter5 0.7293
+iter10 0.7318
+iter15 0.7244
+iter20 0.7353
+iter25 0.7339
+iter30 0.7393
+iter35 0.7377
+iter40 0.7404
+layer 2 end at iter 40  0.7404
+0.7404
+
+
+openfault:fault12/fault1.txt
+0.9701 0.2313 0.4232 
+start retraining layer 1:
+
+iter0 0.7613
+iter5 0.7777
+iter10 0.7832
+iter15 0.7848
+iter20 0.7886
+iter25 0.7895
+iter30 0.789
+layer 1 end at iter 30  test rate :0.789
+
+start retraining layer 2:
+
+iter0 0.7864
+iter5 0.7889
+iter10 0.7893
+iter15 0.7876
+iter20 0.7881
+layer 2 end at iter 20  0.7881
+0.7881
+
+
+openfault:fault12/fault2.txt
+0.9701 0.2358 0.3173 
+start retraining layer 1:
+
+iter0 0.7303
+iter5 0.7733
+iter10 0.7823
+iter15 0.7804
+iter20 0.7795
+iter25 0.7782
+iter30 0.7792
+layer 1 end at iter 30  test rate :0.7792
+
+start retraining layer 2:
+

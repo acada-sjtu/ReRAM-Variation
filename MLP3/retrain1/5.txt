@@ -1,0 +1,204 @@
+amount:10000
+amount:60000
+
+openfault:fault5/fault0.txt
+0.9701 0.5195 0.925 
+start retraining layer 1:
+
+iter0 0.93
+iter5 0.9357
+iter10 0.9389
+iter15 0.9411
+iter20 0.9425
+iter25 0.9381layer 1 end at iter 25  test rate :0.9381
+
+start retraining layer 2:
+
+iter0 0.9424
+iter5 0.9456
+iter10 0.9457
+iter15 0.9438
+iter20 0.948layer 2 end at iter 20  0.948
+0.948
+
+
+openfault:fault5/fault1.txt
+0.9701 0.7785 0.9206 
+start retraining layer 1:
+
+iter0 0.9196
+iter5 0.9338
+iter10 0.9317
+iter15 0.936
+iter20 0.9435
+iter25 0.9403
+iter30 0.9407
+iter35 0.9348layer 1 end at iter 35  test rate :0.9348
+
+start retraining layer 2:
+
+iter0 0.9349
+iter5 0.9363
+iter10 0.9366
+iter15 0.9453
+iter20 0.9402
+iter25 0.9456layer 2 end at iter 25  0.9456
+0.9456
+
+
+openfault:fault5/fault2.txt
+0.9701 0.8051 0.8983 
+start retraining layer 1:
+
+iter0 0.8978
+iter5 0.9086
+iter10 0.9079
+iter15 0.9079
+iter20 0.9244
+iter25 0.9202
+iter30 0.9241
+iter35 0.9254
+iter40 0.924layer 1 end at iter 40  test rate :0.924
+
+start retraining layer 2:
+
+iter0 0.9283
+iter5 0.9381
+iter10 0.9381
+iter15 0.9261
+iter20 0.9325
+iter25 0.9331
+iter30 0.9373
+iter35 0.9433
+iter40 0.9358
+iter45 0.9439
+iter50 0.9399layer 2 end at iter 50  0.9399
+0.9399
+
+
+openfault:fault5/fault3.txt
+0.9701 0.7594 0.8541 
+start retraining layer 1:
+
+iter0 0.879
+iter5 0.8798
+iter10 0.8756
+iter15 0.8759
+iter20 0.8884
+iter25 0.8824
+iter30 0.8957
+iter35 0.9001
+iter40 0.8871
+iter45 0.9021
+iter50 0.8986
+iter55 0.8916
+iter60 0.8888
+iter65 0.9024
+iter70 0.8938
+iter75 0.8944
+iter80 0.8985
+iter85 0.8993layer 1 end at iter 85  test rate :0.8993
+
+start retraining layer 2:
+
+iter0 0.9153
+iter5 0.9023
+iter10 0.9087
+iter15 0.8992
+iter20 0.9064
+iter25 0.921
+iter30 0.8996
+iter35 0.9323
+iter40 0.9339
+iter45 0.922
+iter50 0.928
+iter55 0.9257
+iter60 0.9282
+iter65 0.9166
+iter70 0.9276
+iter75 0.9265
+iter80 0.9268
+iter85 0.9344
+iter90 0.9231
+iter95 0.9332
+iter100 0.9309
+iter105 0.935
+iter110 0.9381
+iter115 0.932layer 2 end at iter 115  0.932
+0.932
+
+
+openfault:fault5/fault4.txt
+0.9701 0.7433 0.8979 
+start retraining layer 1:
+
+iter0 0.89
+iter5 0.9375
+iter10 0.9188
+iter15 0.9334
+iter20 0.9394
+iter25 0.9192
+iter30 0.9454
+iter35 0.9096
+iter40 0.8572
+iter45 0.9424
+iter50 0.9122
+iter55 0.9333
+iter60 0.9279
+iter65 0.938
+iter70 0.9116
+iter75 0.9355
+iter80 0.934
+iter85 0.9147
+iter90 0.9235
+iter95 0.9416
+iter100 0.9427
+iter105 0.9244
+iter110 0.949
+iter115 0.9302
+iter120 0.9385
+iter125 0.9393
+iter130 0.8942
+iter135 0.9279
+iter140 0.9239
+iter145 0.8881
+iter150 0.9339
+iter155 0.9473
+iter160 0.9202
+iter165 0.9121
+iter170 0.9223
+iter175 0.9093
+iter180 0.934
+iter185 0.9049
+iter190 0.9311
+iter195 0.9288
+iter200 0.932
+iter205 0.9087
+iter210 0.8957
+iter215 0.9267
+iter220 0.9161
+iter225 0.9161
+iter230 0.9406
+iter235 0.9238
+iter240 0.9088
+iter245 0.8908
+iter250 0.922
+iter255 0.9175
+iter260 0.8915
+iter265 0.9352
+iter270 0.9301
+iter275 0.9263
+iter280 0.9487
+iter285 0.8955
+iter290 0.9427
+iter295 0.92
+start retraining layer 2:
+
+iter0 0.9238
+iter5 0.944
+iter10 0.9432
+iter15 0.9456
+iter20 0.9394
+iter25 0.9399layer 2 end at iter 25  0.9399
+0.9399
+

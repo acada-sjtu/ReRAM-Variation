@@ -1,0 +1,24 @@
+amount:10000
+amount:60000
+
+openfault:fault12/fault4.txt
+0.9701 0.1579 0.3688 
+start retraining layer 1:
+iter0 0.9253
+iter5 0.9345
+iter10 0.9356
+iter15 0.9375
+iter20 0.9395
+iter25 0.9426
+layer 1 end at iter 25  test rate :0.9426
+
+start retraining layer 2:
+iter0 0.9419
+iter5 0.9433
+iter10 0.9435
+iter15 0.9476
+iter20 0.9488
+
+layer 2 end at iter 20  0.9488
+0.9488
+

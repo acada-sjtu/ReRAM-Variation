@@ -1,0 +1,7 @@
+amount:10000
+amount:60000
+
+openfault:fault8/fault0.txt
+0.9701 0.225 0.6741 
+start retraining layer 1:
+

@@ -1,0 +1,4 @@
+mnist:main.cpp
+	g++ -O3 -Wall main2.cpp -o mnist_all -std=c++11 -I./
+clean:
+	rm mnist

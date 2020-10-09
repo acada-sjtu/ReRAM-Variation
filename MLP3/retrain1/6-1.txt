@@ -1,0 +1,176 @@
+amount:10000
+amount:60000
+
+openfault:fault6/fault3.txt
+0.9701 0.5869 0.7402 
+start retraining layer 1:
+
+iter0 0.7886
+iter5 0.827
+iter10 0.8066
+iter15 0.8185
+iter20 0.8346
+iter25 0.8102
+iter30 0.8432
+iter35 0.8317
+iter40 0.8449
+iter45 0.8415
+iter50 0.8415
+iter55 0.8434
+iter60 0.8632
+iter65 0.8582
+iter70 0.8649
+iter75 0.8686
+iter80 0.8811
+iter85 0.8674
+iter90 0.8657
+iter95 0.864
+iter100 0.8606
+iter105 0.8805
+iter110 0.8902
+iter115 0.8827
+iter120 0.8778
+iter125 0.8818
+iter130 0.8984
+iter135 0.8792
+iter140 0.8836
+iter145 0.891
+iter150 0.8677
+iter155 0.8796
+iter160 0.8773
+iter165 0.8761
+iter170 0.8847
+iter175 0.8894
+iter180 0.8794
+iter185 0.8899
+iter190 0.8803
+iter195 0.8889
+iter200 0.8946
+iter205 0.8937
+iter210 0.88
+iter215 0.8943
+iter220 0.8975
+iter225 0.8998
+iter230 0.8917
+iter235 0.8984layer 1 end at iter 235  test rate :0.8984
+
+start retraining layer 2:
+
+iter0 0.8985
+iter5 0.8951
+iter10 0.9104
+iter15 0.9024
+iter20 0.8869
+iter25 0.9137
+iter30 0.905
+iter35 0.911
+iter40 0.9028
+iter45 0.9239
+iter50 0.9179
+iter55 0.9105
+iter60 0.8968
+iter65 0.8936
+iter70 0.9118
+iter75 0.9131
+iter80 0.9141
+iter85 0.9093
+iter90 0.8991
+iter95 0.913
+iter100 0.9152
+iter105 0.9187
+iter110 0.9204
+iter115 0.9069
+iter120 0.9231
+iter125 0.9163
+iter130 0.9032
+iter135 0.9208
+iter140 0.919
+iter145 0.9289
+iter150 0.9393
+iter155 0.9269
+iter160 0.9276
+iter165 0.933
+iter170 0.9297
+iter175 0.922
+iter180 0.9327
+iter185 0.9395
+iter190 0.9176
+iter195 0.9357
+iter200 0.9284
+iter205 0.9263
+iter210 0.9216
+iter215 0.9256
+iter220 0.9337
+iter225 0.9334
+iter230 0.9342
+iter235 0.9284
+iter240 0.933layer 2 end at iter 240  0.933
+0.933
+
+
+openfault:fault6/fault4.txt
+0.9701 0.5811 0.8682 
+start retraining layer 1:
+
+iter0 0.8738
+iter5 0.8841
+iter10 0.8845
+iter15 0.8933
+iter20 0.8983
+iter25 0.8955
+iter30 0.9067
+iter35 0.9006
+iter40 0.9105
+iter45 0.8907
+iter50 0.9023
+iter55 0.8942
+iter60 0.8958
+iter65 0.8895
+iter70 0.8927
+iter75 0.9002
+iter80 0.9124
+iter85 0.8985
+iter90 0.8964
+iter95 0.8938
+iter100 0.8927
+iter105 0.8955layer 1 end at iter 105  test rate :0.8955
+
+start retraining layer 2:
+
+iter0 0.9079
+iter5 0.8992
+iter10 0.899
+iter15 0.9119
+iter20 0.9064
+iter25 0.8913
+iter30 0.9243
+iter35 0.9043
+iter40 0.9032
+iter45 0.9126
+iter50 0.9244
+iter55 0.9089
+iter60 0.8976
+iter65 0.9074
+iter70 0.9183
+iter75 0.9113
+iter80 0.9194
+iter85 0.901
+iter90 0.92
+iter95 0.9216
+iter100 0.91
+iter105 0.9299
+iter110 0.9197
+iter115 0.9221
+iter120 0.9255
+iter125 0.9158
+iter130 0.922
+iter135 0.9196
+iter140 0.9276
+iter145 0.9177
+iter150 0.9279
+iter155 0.9251
+iter160 0.9264
+iter165 0.9266
+iter170 0.9267layer 2 end at iter 170  0.9267
+0.9267
+
